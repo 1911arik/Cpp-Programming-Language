@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include<iostream>
+using namespace std;
 int main() // Driver Code
 {
 
-   printf("Hello World!");
+   cout<<"Hello World!";
    
    return 0;
    
